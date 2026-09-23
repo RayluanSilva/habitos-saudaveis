@@ -1,8 +1,8 @@
-# Hábitos Saudáveis 🌿
+# Hábitos Saudáveis
 
 Aplicação web para registrar e acompanhar hábitos saudáveis no dia a dia. Projeto Integrador do curso técnico em Informática para Internet (ETEC Astor de Mattos Carvalho, 2025).
 
-🔗 **Acesse online:** https://rayluansilva.github.io/habitos-saudaveis/
+**Acesse online:** https://rayluansilva.github.io/habitos-saudaveis/
 
 ## Funcionalidades
 
